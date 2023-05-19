@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC5E1&height=200&section=header&text=Yujin%20Lee&fontSize=90&fontColor=FFFFFF)
 <br/>
 <div align = "center">
-	**Seoul National Univ. of Science and Technology' Computer Engineering 19'**
+	__Seoul National Univ. of Science and Technology' Computer Engineering 19'__
 	<br/>
-	**Korea Institute of Science and Technology (KIST)** Bio-Medical Convergence Research Headquarters' Bionics Research Center' Intern<sub>- 22.09 ~ 23.02</sub>
+	__Korea Institute of Science and Technology (KIST__ Bio-Medical Convergence Research Headquarters' Bionics Research Center' Intern<sub>- 22.09 ~ 23.02</sub>
 </div>
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
