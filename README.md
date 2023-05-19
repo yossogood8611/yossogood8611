@@ -2,7 +2,7 @@
 <br/>
 <div align = "center">
 	**Seoul National Univ. of Science and Technology' Computer Engineering 19'**
-	***
+	<br/>
 	**Korea Institute of Science and Technology (KIST)** Bio-Medical Convergence Research Headquarters' Bionics Research Center' Intern<sub>- 22.09 ~ 23.02</sub>
 </div>
 
