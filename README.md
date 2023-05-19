@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&customColorList=&2height=300&section=header&text=Yujin%20Lee&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&customColorList=&1height=600&section=header&text=Yujin%20Lee&fontSize=90&fontColor=FFFFFF)
 
 
 
